@@ -4,6 +4,13 @@ import { ClientBody } from "./ClientBody";
 import Script from "next/script";
 
 export const metadata: Metadata = {
+  icons: {
+    icon: [
+      { url: "/favicon-betify.webp", type: "image/webp" },
+      { url: "/favicon.ico", type: "image/x-icon" },
+    ],
+    apple: "/favicon-betify.webp",
+  },
   title: "Betify : Casino en Ligne & Paris Sportifs en France | Bonus & VIP",
   description: "Betify : votre casino en ligne et plateforme de paris sportifs en France. Plus de 10 000 jeux, 87 fournisseurs, bonus de bienvenue 100% jusqu'à 500€, programme VIP 18 niveaux, retraits rapides. Jouez et gagnez avec Betify.",
   keywords: "betify, betify casino, betify paris sportif, betify avis, betify france, betify connexion, betify login, betify bonus, casino en ligne, paris sportifs, aviator, machines à sous, casino en direct",
