@@ -80,7 +80,7 @@ const schemas = [
         "@type": "ContactPoint",
         telephone: "+35725654149",
         contactType: "customer service",
-        email: "support@betify.com",
+        url: "https://betify.com",
         availableLanguage: ["French", "English"],
         hoursAvailable: {
           "@type": "OpeningHoursSpecification",
