@@ -1,0 +1,1392 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Betify : Casino en Ligne &amp; Paris Sportifs en France | Bonus &amp; VIP</title>
+  <meta name="description" content="Betify : votre casino en ligne et paris sportifs en France. Plus de 10 000 jeux, 87 providers, cotes comp&eacute;titives, retraits rapides sans frais, programme VIP 18 niveaux et bonus de bienvenue. Rejoignez Betify.">
+  <meta name="keywords" content="betify, betify casino, betify avis, betify connexion, betify paris sportif, betify france, betify login, casino en ligne, paris sportifs">
+  <link rel="canonical" href="https://vitacolo.fr/">
+  <link rel="alternate" hreflang="fr-FR" href="https://vitacolo.fr/">
+  <link rel="alternate" hreflang="x-default" href="https://vitacolo.fr/">
+  <link rel="icon" type="image/webp" href="images/favicon-betify.webp">
+  <!-- Open Graph -->
+  <meta property="og:title" content="Betify Casino : Jeux en ligne, Paris Sportifs, Bonus">
+  <meta property="og:description" content="Betify Casino : jouez aux meilleurs jeux de casino en ligne, pariez sur le sport et profitez de bonus exclusifs.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://vitacolo.fr/">
+  <meta property="og:image" content="https://vitacolo.fr/images/og-betify.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:type" content="image/jpeg">
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Betify Casino : Jeux en ligne, Paris Sportifs, Bonus">
+  <meta name="twitter:description" content="Betify Casino : jouez aux meilleurs jeux de casino en ligne, pariez sur le sport et profitez de bonus exclusifs.">
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"></noscript>
+  <!-- FontAwesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" media="print" onload="this.media='all'">
+  <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"></noscript>
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+  <!-- Schema Markup -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Betify",
+    "url": "https://vitacolo.fr/",
+    "description": "Betify est un casino en ligne proposant plus de 10 000 jeux, des paris sportifs sur 40+ disciplines, un programme VIP 18 niveaux et des paiements rapides sans frais. Accessible aux joueurs en France.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://vitacolo.fr/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": "Qu'est-ce que Betify ?", "acceptedAnswer": {"@type": "Answer", "text": "Betify est une plateforme de casino en ligne et de paris sportifs proposant plus de 10 000 jeux, des cotes comp\u00e9titives sur 40+ sports, un programme VIP \u00e0 18 niveaux et des paiements rapides et s\u00e9curis\u00e9s. Accessible aux joueurs en France."}},
+      {"@type": "Question", "name": "Comment s'inscrire sur Betify ?", "acceptedAnswer": {"@type": "Answer", "text": "L'inscription est gratuite et prend 2 minutes. Cliquez sur Inscription, renseignez vos informations, confirmez votre email et commencez \u00e0 jouer. Inscription possible via Google ou Twitch."}},
+      {"@type": "Question", "name": "Betify est-il fiable ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui. Betify d\u00e9tient une licence Cura\u00e7ao eGaming, utilise un chiffrement SSL, et affiche une note de 4.7/5 sur Trustpilot avec plus de 1 500 avis. Retraits trait\u00e9s sous 24 \u00e0 48 heures sans frais."}},
+      {"@type": "Question", "name": "Comment se connecter \u00e0 Betify ?", "acceptedAnswer": {"@type": "Answer", "text": "Rendez-vous sur le site Betify, cliquez sur S'identifier, entrez votre email et mot de passe. Fonction mot de passe oubli\u00e9 et support 24/7 disponibles."}},
+      {"@type": "Question", "name": "Quels sont les moyens de paiement accept\u00e9s sur Betify ?", "acceptedAnswer": {"@type": "Answer", "text": "Betify accepte Visa, Mastercard, Skrill, Neteller, MiFinity, ecoPayz, Cashlib, Flexepin, cryptomonnaies (Bitcoin, Ethereum, USDT, Litecoin) et virements bancaires. Tous sans frais."}},
+      {"@type": "Question", "name": "Combien de temps prend un retrait sur Betify ?", "acceptedAnswer": {"@type": "Answer", "text": "Crypto : quasi instantan\u00e9. Portefeuilles \u00e9lectroniques : 24 \u00e0 48h. Cartes bancaires et virements : 48 \u00e0 72h."}},
+      {"@type": "Question", "name": "Betify est-il accessible en France ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, Betify est enti\u00e8rement accessible en France avec interface en fran\u00e7ais, support francophone 24/7 et m\u00e9thodes de paiement adapt\u00e9es."}},
+      {"@type": "Question", "name": "Betify propose-t-il une application mobile ?", "acceptedAnswer": {"@type": "Answer", "text": "Betify fonctionne via une PWA installable depuis le navigateur, offrant la m\u00eame exp\u00e9rience qu'une application native sans t\u00e9l\u00e9chargement depuis un store."}},
+      {"@type": "Question", "name": "Quel est le d\u00e9p\u00f4t minimum sur Betify ?", "acceptedAnswer": {"@type": "Answer", "text": "Le d\u00e9p\u00f4t minimum est de 20 \u20ac pour la plupart des m\u00e9thodes. Pour les cryptomonnaies, le minimum est de 50 \u20ac."}},
+      {"@type": "Question", "name": "Betify propose-t-il un bonus de bienvenue ?", "acceptedAnswer": {"@type": "Answer", "text": "Oui, bonus casino de 100% jusqu'\u00e0 500 \u20ac + Free Spins, bonus paris sportifs de 50% en freebet, et free spins sans d\u00e9p\u00f4t pour les nouveaux inscrits."}}
+    ]
+  }
+  </script>
+</head>
+<body>
+  <!-- ========== HEADER ========== -->
+  <header class="site-header" id="siteHeader">
+    <div class="header-inner">
+      <div class="header-left">
+        <button class="hamburger-btn" id="hamburgerBtn" aria-label="Ouvrir le menu">
+          <i class="fas fa-bars"></i>
+        </button>
+        <a href="/" class="logo" aria-label="Betify - Accueil">
+          <img src="images/logo.svg" alt="Betify Logo" width="110" height="32" fetchpriority="high">
+        </a>
+      </div>
+      <div class="header-spacer"></div>
+      <div class="header-right">
+        <button class="header-search-btn" aria-label="Rechercher">
+          <i class="fas fa-search"></i>
+        </button>
+        <button class="btn btn-outline btn-header">S'identifier</button>
+        <button class="btn btn-primary btn-header">Inscription</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- ========== SIDEBAR ========== -->
+  <div class="sidebar-overlay" id="sidebarOverlay"></div>
+  <aside class="sidebar" id="sidebar">
+    <nav class="sidebar-nav" aria-label="Navigation principale">
+      <!-- 1. Badges top -->
+      <div class="sb-badges">
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="sb-badge sb-badge--mission">
+          <div class="sb-badge-text">
+            <span class="sb-badge-sub">Daily</span>
+            <span class="sb-badge-main">Mission</span>
+          </div>
+          <img src="images/icon-colored-mission.60e7c40.webp" alt="" width="34" height="34" loading="lazy">
+        </a>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="sb-badge sb-badge--cashback">
+          <div class="sb-badge-text">
+            <span class="sb-badge-sub">Cash</span>
+            <span class="sb-badge-main">Back</span>
+          </div>
+          <video class="sb-badge-video" autoplay loop muted playsinline width="34" height="34">
+            <source src="images/sidemenu-wallet.bef1aec.webm" type="video/webm">
+          </video>
+        </a>
+      </div>
+
+      <!-- 2. Fortune block -->
+      <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="sb-fortune">
+        <div class="sb-fortune-text">
+          <span class="sb-fortune-label">Roue de la</span>
+          <span class="sb-fortune-title">Fortune</span>
+        </div>
+        <img src="images/icon-colored-wheel.366b757.webp" alt="Roue de la Fortune" width="40" height="40" loading="lazy">
+      </a>
+
+      <!-- 3. Menu items : each in its own container -->
+      <div class="sb-menu">
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="sb-item">
+          <img src="images/icon-animated-rocket.e8576b9.gif" alt="" width="22" height="22" loading="lazy">
+          <span>Mini-jeux</span>
+        </a>
+
+        <div class="sb-item sb-dropdown">
+          <button class="sb-dropdown-btn" aria-expanded="false">
+            <i class="fas fa-slot-machine"></i>
+            <span>Casino</span>
+            <i class="fas fa-chevron-down sb-arrow"></i>
+          </button>
+          <div class="sb-dropdown-content">
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Slots</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Jeux de table</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Casino en direct</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Jackpots</a>
+          </div>
+        </div>
+
+        <div class="sb-item sb-dropdown">
+          <button class="sb-dropdown-btn" aria-expanded="false">
+            <i class="fas fa-atom"></i>
+            <span>Sport</span>
+            <i class="fas fa-chevron-down sb-arrow"></i>
+          </button>
+          <div class="sb-dropdown-content">
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Football</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Tennis</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Basketball</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">eSports</a>
+          </div>
+        </div>
+
+        <div class="sb-item sb-dropdown">
+          <button class="sb-dropdown-btn" aria-expanded="false">
+            <i class="fas fa-bullhorn"></i>
+            <span>Promotions</span>
+            <i class="fas fa-chevron-down sb-arrow"></i>
+          </button>
+          <div class="sb-dropdown-content">
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Bonus de bienvenue</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Cashback</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Tournois</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Freespins</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- 4. Sponsorship -->
+      <div class="sb-item sb-dropdown sb-dropdown--sponsor open">
+        <button class="sb-dropdown-btn" aria-expanded="true">
+          <i class="fas fa-users"></i>
+          <span>Sponsorship</span>
+          <i class="fas fa-chevron-down sb-arrow"></i>
+        </button>
+        <div class="sb-dropdown-content">
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Floyd Mayweather</a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Fnatic</a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Ronaldinho</a>
+        </div>
+      </div>
+
+      <!-- 5. Live Chat -->
+      <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="sb-item sb-chat">
+        <i class="fas fa-comment-dots"></i>
+        <span>Live Chat</span>
+      </a>
+
+      <!-- 6. Telegram banner -->
+      <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="sb-telegram">
+        <i class="fab fa-telegram-plane"></i>
+        <span>Ne manquez pas les offres Telegram</span>
+      </a>
+    </nav>
+  </aside>
+
+  <!-- ========== MAIN CONTENT ========== -->
+  <main class="main-content" id="mainContent">
+    <h1 class="sr-only">Betify : Casino en Ligne &amp; Paris Sportifs</h1>
+
+    <!-- ===== 4.1 HERO BANNER ===== -->
+    <section class="hero-section" aria-label="Promotions">
+      <div class="hero-wrapper">
+        <div class="hero-carousel" id="heroCarousel">
+          <div class="hero-track">
+            <div class="hero-slide">
+              <img src="images/177014_bf_mobile_banner-1-1.webp" alt="Avant-Premiere Penguin King - Une exclusivite a decouvrir" width="800" height="340" fetchpriority="high">
+              <div class="hero-slide-content">
+                <span class="hero-tag">AVANT-PREMIERE PENGUIN KING</span>
+                <p class="hero-subtitle">Une exclusivite a decouvrir !</p>
+                <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn btn-primary btn-lg">Creer un compte</a>
+              </div>
+            </div>
+            <div class="hero-slide">
+              <img src="images/177469_bf_mobile_banner-10.webp" alt="Promotion speciale Betify" width="800" height="340" loading="lazy">
+              <div class="hero-slide-content">
+                <span class="hero-tag">PROMOTION SPECIALE</span>
+                <p class="hero-subtitle">Des bonus incroyables vous attendent !</p>
+                <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn btn-primary btn-lg">Creer un compte</a>
+              </div>
+            </div>
+            <div class="hero-slide">
+              <img src="images/177381_bf_mobile_banner.webp" alt="Offre exclusive Betify Casino" width="800" height="340" loading="lazy">
+              <div class="hero-slide-content">
+                <span class="hero-tag">OFFRE EXCLUSIVE</span>
+                <p class="hero-subtitle">Rejoignez le casino Betify !</p>
+                <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn btn-primary btn-lg">Creer un compte</a>
+              </div>
+            </div>
+          </div>
+          <button class="carousel-arrow carousel-arrow-left" aria-label="Slide precedent"><i class="fas fa-chevron-left"></i></button>
+          <button class="carousel-arrow carousel-arrow-right" aria-label="Slide suivant"><i class="fas fa-chevron-right"></i></button>
+          <div class="hero-dots" id="heroDots"></div>
+        </div>
+        <div class="hero-vip">
+          <div class="vip-card">
+            <img src="images/badge-3.8da7f98.webp" alt="VIP Club Betify" width="80" height="80" loading="lazy">
+            <span class="vip-title">VIP CLUB</span>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn btn-outline btn-sm">EN SAVOIR PLUS</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 4.2 JOUER ET PARIER ===== -->
+    <section class="section section-categories">
+      <h2 class="section-title">Jouer et parier</h2>
+      <div class="categories-grid">
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="cat-card cat-card--sport">
+          <div class="cat-text">
+            <span class="cat-cta">Parier Maintenant</span>
+            <span class="cat-name">Sport</span>
+          </div>
+          <img src="images/bg-sports.1e07834.webp" alt="Paris sportifs" width="120" height="120" loading="lazy" class="cat-img">
+        </a>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="cat-card cat-card--esports">
+          <div class="cat-text">
+            <span class="cat-cta">Parier Maintenant</span>
+            <span class="cat-name">eSports</span>
+          </div>
+          <img src="images/bg-e-sports.aa76f08.webp" alt="Paris eSports" width="120" height="120" loading="lazy" class="cat-img">
+        </a>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="cat-card cat-card--aviator">
+          <div class="cat-text">
+            <span class="cat-cta">Parier Maintenant</span>
+            <span class="cat-name">Aviator</span>
+          </div>
+          <img src="images/bg-aviator.4a036bb.webp" alt="Jeu Aviator" width="120" height="120" loading="lazy" class="cat-img">
+        </a>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="cat-card cat-card--mines">
+          <div class="cat-text">
+            <span class="cat-cta">Parier Maintenant</span>
+            <span class="cat-name">Mines</span>
+          </div>
+          <img src="images/bg-mines.3e7b49b.webp" alt="Jeu Mines" width="120" height="120" loading="lazy" class="cat-img">
+        </a>
+      </div>
+    </section>
+
+    <!-- ===== 4.3 BANDEAU CASHBACK ===== -->
+    <section class="section section-cashback">
+      <div class="cashback-banner">
+        <div class="cashback-content">
+          <span class="cashback-title">CASHBACK</span>
+          <span class="cashback-subtitle">JUSQU'A 20%</span>
+        </div>
+        <img src="images/bg-cashback.996e87b.webp" alt="Cashback jusqu'a 20%" class="cashback-deco" width="800" height="200" loading="lazy">
+      </div>
+    </section>
+
+    <!-- ===== 4.4 MEILLEURS JEUX ===== -->
+    <section class="section section-games">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Meilleurs jeux</h2>
+          <span class="section-count">61 jeux</span>
+        </div>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn-see-all">Voir Tous <i class="fas fa-chevron-right"></i></a>
+      </div>
+      <div class="carousel-wrapper">
+        <button class="carousel-arrow carousel-arrow-left" aria-label="Precedent"><i class="fas fa-chevron-left"></i></button>
+        <div class="games-carousel carousel" data-carousel>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/177024-blackjack_thumbnailx2.jpg" alt="Blackjack" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-top">TOP</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Blackjack</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/132832-gates-of-olympus-1000_thumbnailx2.jpg" alt="Gates of Olympus 1000" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-top">TOP</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Gates of Olympus 1000</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/169706-serpent-gold-hold-amp-win_thumbnailx2.jpg" alt="Serpent Gold: Hold &amp; Win" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-top">TOP</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Serpent Gold</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/120394-le-bandit_thumbnailx2.jpg" alt="Le Bandit" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-top">TOP</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Le Bandit</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/170766-sweet-rush-bonanza_thumbnailx2.jpg" alt="Sweet Bonanza" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-top">TOP</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Sweet Bonanza</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/161535-chicken-road-2_thumbnailx2.jpg" alt="Chicken Road 2" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-top">TOP</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Chicken Road 2</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/177282-hot-ross_thumbnailx2.jpg" alt="Hot Ross" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-top">TOP</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Hot Ross</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/176967-supersized_thumbnailx2.jpg" alt="Supersized" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-top">TOP</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Supersized</span>
+          </a>
+        </div>
+        <button class="carousel-arrow carousel-arrow-right" aria-label="Suivant"><i class="fas fa-chevron-right"></i></button>
+      </div>
+    </section>
+
+    <!-- ===== 4.5 NOUVEAU ===== -->
+    <section class="section section-games">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Nouveau</h2>
+          <span class="section-count">48 jeux</span>
+        </div>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn-see-all">Voir Tous <i class="fas fa-chevron-right"></i></a>
+      </div>
+      <div class="carousel-wrapper">
+        <button class="carousel-arrow carousel-arrow-left" aria-label="Precedent"><i class="fas fa-chevron-left"></i></button>
+        <div class="games-carousel carousel" data-carousel>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/177387-3-eternal-drums-rhythm-of-fortune_thumbnailx2.jpg" alt="Eternal Drums" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-new">NOUVEAU</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Eternal Drums</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/177394-dark-spiral_thumbnailx2.jpg" alt="Dark Spiral" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-new">NOUVEAU</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Dark Spiral</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/177364-treasures-of-osiris_thumbnailx2.jpg" alt="Treasures of Osiris" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-new">NOUVEAU</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Treasures of Osiris</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/177000-knights-vs-barbarians_thumbnailx2.jpg" alt="Knights vs Barbarians" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-new">NOUVEAU</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Knights vs Barbarians</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/177491-giza-fortunes-hold-win_thumbnailx2.jpg" alt="Giza Fortunes" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-new">NOUVEAU</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Giza Fortunes</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/128201-vortex_thumbnailx2.png" alt="Vortex" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-new">NOUVEAU</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Vortex</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/170223-crazy-time-a_thumbnailx2.jpg" alt="Crazy Time" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-new">NOUVEAU</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Crazy Time</span>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="game-card">
+            <img src="images/177282-hot-ross_thumbnailx2.jpg" alt="Hot Ross" width="280" height="200" loading="lazy">
+            <span class="game-badge badge-new">NOUVEAU</span>
+            <div class="game-hover"><span class="btn btn-primary btn-sm">Jouer</span></div>
+            <span class="game-name">Hot Ross</span>
+          </a>
+        </div>
+        <button class="carousel-arrow carousel-arrow-right" aria-label="Suivant"><i class="fas fa-chevron-right"></i></button>
+      </div>
+    </section>
+
+    <!-- ===== 4.6 CASINO EN DIRECT ===== -->
+    <section class="section section-live">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Casino en direct</h2>
+          <span class="section-count">1014 jeux</span>
+        </div>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn-see-all">Voir Tous <i class="fas fa-chevron-right"></i></a>
+      </div>
+      <div class="carousel-wrapper">
+        <button class="carousel-arrow carousel-arrow-left" aria-label="Precedent"><i class="fas fa-chevron-left"></i></button>
+        <div class="live-carousel carousel" data-carousel>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="live-card">
+            <img src="images/137109-betify-blackjack_thumbnailx2.jpg" alt="Betify Blackjack" width="320" height="240" loading="lazy">
+            <div class="live-info">
+              <span class="live-badge"><i class="fas fa-circle"></i> LIVE</span>
+              <span class="live-name">Betify Blackjack</span>
+            </div>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="live-card">
+            <img src="images/135565-betify-roulette_thumbnailx2.jpg" alt="Betify Roulette" width="320" height="240" loading="lazy">
+            <div class="live-info">
+              <span class="live-badge"><i class="fas fa-circle"></i> LIVE</span>
+              <span class="live-name">Betify Roulette</span>
+            </div>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="live-card">
+            <img src="images/152402-super-boost-blackjack_thumbnailx2.jpg" alt="Super Boost Blackjack" width="320" height="240" loading="lazy">
+            <div class="live-info">
+              <span class="live-badge"><i class="fas fa-circle"></i> LIVE</span>
+              <span class="live-name">Super Boost Blackjack</span>
+            </div>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="live-card">
+            <img src="images/137128-betify-one-blackjack_thumbnailx2.jpg" alt="Betify One Blackjack" width="320" height="240" loading="lazy">
+            <div class="live-info">
+              <span class="live-badge"><i class="fas fa-circle"></i> LIVE</span>
+              <span class="live-name">Betify One Blackjack</span>
+            </div>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="live-card">
+            <img src="images/137127-betify-blackjack-x_thumbnailx2.jpg" alt="Betify Blackjack X" width="320" height="240" loading="lazy">
+            <div class="live-info">
+              <span class="live-badge"><i class="fas fa-circle"></i> LIVE</span>
+              <span class="live-name">Betify Blackjack X</span>
+            </div>
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="live-card">
+            <img src="images/137124-betify-speed-roulette_thumbnailx2.jpg" alt="Betify Speed Roulette" width="320" height="240" loading="lazy">
+            <div class="live-info">
+              <span class="live-badge"><i class="fas fa-circle"></i> LIVE</span>
+              <span class="live-name">Betify Speed Roulette</span>
+            </div>
+          </a>
+        </div>
+        <button class="carousel-arrow carousel-arrow-right" aria-label="Suivant"><i class="fas fa-chevron-right"></i></button>
+      </div>
+    </section>
+
+    <!-- ===== 4.7 PROVIDERS ===== -->
+    <section class="section section-providers">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Providers</h2>
+          <span class="section-count">87 providers</span>
+        </div>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn-see-all">Voir Tous <i class="fas fa-chevron-right"></i></a>
+      </div>
+      <div class="carousel-wrapper">
+        <button class="carousel-arrow carousel-arrow-left" aria-label="Precedent"><i class="fas fa-chevron-left"></i></button>
+        <div class="providers-carousel carousel" data-carousel>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="provider-card">
+            <img src="images/egtdigital_logo.svg" alt="EGT Digital" width="120" height="60" loading="lazy">
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="provider-card">
+            <img src="images/spinocchio_logo.svg" alt="Spinocchio" width="120" height="60" loading="lazy">
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="provider-card">
+            <img src="images/pragmaticplay_logo.svg" alt="Pragmatic Play" width="120" height="60" loading="lazy">
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="provider-card">
+            <img src="images/tvbet_logo.svg" alt="TVBET" width="120" height="60" loading="lazy">
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="provider-card">
+            <img src="images/hacksaw_logo.svg" alt="Hacksaw Gaming" width="120" height="60" loading="lazy">
+          </a>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="provider-card">
+            <img src="images/octoplay_logo.svg" alt="Octoplay" width="120" height="60" loading="lazy">
+          </a>
+        </div>
+        <button class="carousel-arrow carousel-arrow-right" aria-label="Suivant"><i class="fas fa-chevron-right"></i></button>
+      </div>
+    </section>
+
+    <!-- ===== 4.8 BATAILLES ===== -->
+    <section class="section section-battles">
+      <div class="section-header">
+        <div>
+          <h2 class="section-title">Batailles</h2>
+        </div>
+        <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn-see-all">Voir Tous <i class="fas fa-chevron-right"></i></a>
+      </div>
+      <div class="battles-grid">
+        <!-- Left: Challenge card -->
+        <div class="battle-card">
+          <div class="battle-header">
+            <h3 class="battle-name">Challenge de la semaine</h3>
+            <div class="battle-timer" data-target="2026-03-01T23:59:59Z">
+              <span class="timer-label">FINIE EN</span>
+              <div class="timer-digits">
+                <span class="timer-block"><span class="timer-value" data-days>00</span><span class="timer-unit">J</span></span>
+                <span class="timer-sep">:</span>
+                <span class="timer-block"><span class="timer-value" data-hours>00</span><span class="timer-unit">H</span></span>
+                <span class="timer-sep">:</span>
+                <span class="timer-block"><span class="timer-value" data-minutes>00</span><span class="timer-unit">M</span></span>
+                <span class="timer-sep">:</span>
+                <span class="timer-block"><span class="timer-value" data-seconds>00</span><span class="timer-unit">S</span></span>
+              </div>
+            </div>
+          </div>
+          <div class="battle-prize">
+            <span class="prize-label">PRIX</span>
+            <span class="prize-amount">75000 <i class="fas fa-coins"></i></span>
+          </div>
+          <div class="battle-dates">
+            25.02.2026 09:00:01 - 01.03.2026 23:59:59 UTC
+          </div>
+          <table class="battle-leaderboard">
+            <thead>
+              <tr>
+                <th>Position</th>
+                <th>Utilisateur</th>
+                <th>Points</th>
+                <th>Prix</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td><img src="images/1place.3e8c0a8.webp" alt="1er" width="24" height="24"></td>
+                <td>SOUS*****</td>
+                <td>14 449</td>
+                <td class="prize-gold">12 000 <i class="fas fa-coins"></i></td>
+              </tr>
+              <tr>
+                <td><img src="images/2place.8cfd1b7.webp" alt="2e" width="24" height="24"></td>
+                <td>TUX2*****</td>
+                <td>5 577</td>
+                <td class="prize-silver">9 000 <i class="fas fa-coins"></i></td>
+              </tr>
+              <tr>
+                <td><img src="images/3place.0bfee92.webp" alt="3e" width="24" height="24"></td>
+                <td>RIDC*****</td>
+                <td>4 667</td>
+                <td class="prize-bronze">7 500 <i class="fas fa-coins"></i></td>
+              </tr>
+            </tbody>
+          </table>
+          <div class="battle-actions">
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn btn-primary">Participer</a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn btn-outline">Classement complet</a>
+          </div>
+        </div>
+
+        <!-- Right: Info card -->
+        <div class="battle-info-card">
+          <img src="images/start-tournament.3ad31dc.webp" alt="Podium batailles" width="400" height="300" loading="lazy" class="battle-podium-img">
+          <h3>Batailles</h3>
+          <p>Les courses sont des tournois de casino ou l'objectif est de gagner le plus grand nombre de fois possibles en un certain laps de temps.</p>
+          <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" class="btn-link">Plus de details <i class="fas fa-chevron-right"></i></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== 4.9 TABLEAU DES LEADERS ===== -->
+    <section class="section section-leaderboard">
+      <h2 class="section-title">Tableau des leaders</h2>
+      <div class="leaderboard-tabs" role="tablist">
+        <button class="tab-btn active" role="tab" aria-selected="true" data-tab="big-wins">Gros gains</button>
+        <button class="tab-btn" role="tab" aria-selected="false" data-tab="latest-wins">Derniers gains</button>
+        <button class="tab-btn" role="tab" aria-selected="false" data-tab="all-bets">Tous les paris</button>
+      </div>
+      <div class="leaderboard-table-wrapper">
+        <!-- Tab: Gros gains -->
+        <table class="leaderboard-table" id="tab-big-wins" role="tabpanel">
+          <thead>
+            <tr>
+              <th>Game</th>
+              <th>Player</th>
+              <th>Time</th>
+              <th>Bet</th>
+              <th>Multiplier</th>
+              <th>Payout</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="td-game"><img src="images/169706-serpent-gold-hold-amp-win_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Serpent Gold: Hold &amp; Win</td>
+              <td>BLERO*****</td>
+              <td>10:59 AM</td>
+              <td>0,60 &euro;</td>
+              <td class="td-multiplier">46x</td>
+              <td class="td-payout">27,60 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/170223-crazy-time-a_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> MONOPOLY Big Baller</td>
+              <td>NATAN*****</td>
+              <td>10:55 AM</td>
+              <td>2,00 &euro;</td>
+              <td class="td-multiplier">13.5x</td>
+              <td class="td-payout">27,00 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/177394-dark-spiral_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> The Crypt</td>
+              <td>NEONA*****</td>
+              <td>8:36 AM</td>
+              <td>0,20 &euro;</td>
+              <td class="td-multiplier multi-high">97.4x</td>
+              <td class="td-payout">19,48 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/169706-serpent-gold-hold-amp-win_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Serpent Gold: Hold &amp; Win</td>
+              <td>JEMAO*****</td>
+              <td>2:05 AM</td>
+              <td>6,00 &euro;</td>
+              <td class="td-multiplier multi-high">575x</td>
+              <td class="td-payout payout-high">3 450,00 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/177282-hot-ross_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> 40 Power Hot Triple Boost</td>
+              <td>LYNA4*****</td>
+              <td>10:09 AM</td>
+              <td>1,00 &euro;</td>
+              <td class="td-multiplier multi-high">191x</td>
+              <td class="td-payout payout-high">191,00 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/177364-treasures-of-osiris_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Dead Men Walking</td>
+              <td>ALEXS*****</td>
+              <td>1:28 AM</td>
+              <td>1,50 &euro;</td>
+              <td class="td-multiplier multi-high">200.96x</td>
+              <td class="td-payout payout-high">301,44 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/177282-hot-ross_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> 3 Hot Chillies</td>
+              <td>ERWAN*****</td>
+              <td>10:59 AM</td>
+              <td>0,50 &euro;</td>
+              <td class="td-multiplier">36x</td>
+              <td class="td-payout">18,00 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/128201-vortex_thumbnailx2.png" alt="" width="32" height="24" loading="lazy"> Vortex Halloween</td>
+              <td>ARNAU*****</td>
+              <td>10:53 AM</td>
+              <td>0,50 &euro;</td>
+              <td class="td-multiplier">17.54x</td>
+              <td class="td-payout">8,77 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/177387-3-eternal-drums-rhythm-of-fortune_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> 3 Christmas Pyramids: Hold</td>
+              <td>GETCH*****</td>
+              <td>10:51 AM</td>
+              <td>0,10 &euro;</td>
+              <td class="td-multiplier multi-high">484x</td>
+              <td class="td-payout payout-high">48,40 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/132832-gates-of-olympus-1000_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Gates of Olympus 1000</td>
+              <td>JONA2*****</td>
+              <td>6:27 AM</td>
+              <td>2,50 &euro;</td>
+              <td class="td-multiplier multi-high">267.12x</td>
+              <td class="td-payout payout-high">667,80 &euro;</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <!-- Tab: Derniers gains -->
+        <table class="leaderboard-table hidden" id="tab-latest-wins" role="tabpanel">
+          <thead>
+            <tr>
+              <th>Game</th>
+              <th>Player</th>
+              <th>Time</th>
+              <th>Bet</th>
+              <th>Multiplier</th>
+              <th>Payout</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="td-game"><img src="images/132832-gates-of-olympus-1000_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Gates of Olympus 1000</td>
+              <td>MARCO*****</td>
+              <td>11:02 AM</td>
+              <td>1,00 &euro;</td>
+              <td class="td-multiplier">12.5x</td>
+              <td class="td-payout">12,50 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/177024-blackjack_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Blackjack</td>
+              <td>JULIA*****</td>
+              <td>11:01 AM</td>
+              <td>5,00 &euro;</td>
+              <td class="td-multiplier">2x</td>
+              <td class="td-payout">10,00 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/170766-sweet-rush-bonanza_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Sweet Bonanza</td>
+              <td>DAVID*****</td>
+              <td>11:00 AM</td>
+              <td>0,50 &euro;</td>
+              <td class="td-multiplier">8.4x</td>
+              <td class="td-payout">4,20 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/120394-le-bandit_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Le Bandit</td>
+              <td>LUCAS*****</td>
+              <td>10:58 AM</td>
+              <td>2,00 &euro;</td>
+              <td class="td-multiplier">5.6x</td>
+              <td class="td-payout">11,20 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/161535-chicken-road-2_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Chicken Road 2</td>
+              <td>EMMA0*****</td>
+              <td>10:56 AM</td>
+              <td>1,00 &euro;</td>
+              <td class="td-multiplier">3.2x</td>
+              <td class="td-payout">3,20 &euro;</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <!-- Tab: Tous les paris -->
+        <table class="leaderboard-table hidden" id="tab-all-bets" role="tabpanel">
+          <thead>
+            <tr>
+              <th>Game</th>
+              <th>Player</th>
+              <th>Time</th>
+              <th>Bet</th>
+              <th>Multiplier</th>
+              <th>Payout</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="td-game"><img src="images/177024-blackjack_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Blackjack</td>
+              <td>PIERR*****</td>
+              <td>11:05 AM</td>
+              <td>10,00 &euro;</td>
+              <td class="td-multiplier">0x</td>
+              <td class="td-payout">0,00 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/132832-gates-of-olympus-1000_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Gates of Olympus 1000</td>
+              <td>MARCO*****</td>
+              <td>11:02 AM</td>
+              <td>1,00 &euro;</td>
+              <td class="td-multiplier">12.5x</td>
+              <td class="td-payout">12,50 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/170766-sweet-rush-bonanza_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Sweet Bonanza</td>
+              <td>DAVID*****</td>
+              <td>11:00 AM</td>
+              <td>0,50 &euro;</td>
+              <td class="td-multiplier">8.4x</td>
+              <td class="td-payout">4,20 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/169706-serpent-gold-hold-amp-win_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Serpent Gold: Hold &amp; Win</td>
+              <td>BLERO*****</td>
+              <td>10:59 AM</td>
+              <td>0,60 &euro;</td>
+              <td class="td-multiplier">46x</td>
+              <td class="td-payout">27,60 &euro;</td>
+            </tr>
+            <tr>
+              <td class="td-game"><img src="images/120394-le-bandit_thumbnailx2.jpg" alt="" width="32" height="24" loading="lazy"> Le Bandit</td>
+              <td>LUCAS*****</td>
+              <td>10:58 AM</td>
+              <td>2,00 &euro;</td>
+              <td class="td-multiplier">5.6x</td>
+              <td class="td-payout">11,20 &euro;</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <!-- ========== SEO CONTENT ========== -->
+  <section class="seo-content">
+    <div class="seo-inner">
+
+      <h2>Betify : Votre Casino en Ligne et Paris Sportifs en France</h2>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Crit&egrave;re</th><th>D&eacute;tails</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>🏷️ Nom</td><td>Betify Casino</td></tr>
+            <tr><td>🌍 Pays</td><td>France</td></tr>
+            <tr><td>🔐 Licence</td><td>Cura&ccedil;ao eGaming (n° OGL/2023/109/0075)</td></tr>
+            <tr><td>🎰 Jeux</td><td>10 000+</td></tr>
+            <tr><td>🎲 Fournisseurs</td><td>87 &eacute;diteurs partenaires</td></tr>
+            <tr><td>💎 Bonus Casino</td><td>100% jusqu'&agrave; 500&euro; + Free Spins</td></tr>
+            <tr><td>⚽ Bonus Sport</td><td>50% du 1er d&eacute;p&ocirc;t en freebet</td></tr>
+            <tr><td>💳 D&eacute;p&ocirc;t min.</td><td>20&euro;</td></tr>
+            <tr><td>💸 Retrait min.</td><td>50&euro;</td></tr>
+            <tr><td>⏱️ D&eacute;lai retrait</td><td>24 &agrave; 48 heures</td></tr>
+            <tr><td>📱 Mobile</td><td>PWA (iOS &amp; Android)</td></tr>
+            <tr><td>🕑 Support</td><td>Chat en direct 24/7</td></tr>
+            <tr><td>🗣️ Langue</td><td>Fran&ccedil;ais, Anglais</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <p><strong>Betify</strong> est bien plus qu'un simple casino en ligne. C'est une plateforme compl&egrave;te qui r&eacute;unit <strong>casino</strong>, <strong>paris sportifs</strong>, <strong>mini-jeux</strong> et <strong>casino en direct</strong> dans un seul et m&ecirc;me espace, enti&egrave;rement pens&eacute; pour les joueurs en <strong>France</strong>. Depuis son lancement, <strong>Betify</strong> s'est impos&eacute; comme une r&eacute;f&eacute;rence gr&acirc;ce &agrave; un catalogue de plus de <strong>10 000 jeux</strong>, des partenariats avec <strong>87 fournisseurs</strong> de renomm&eacute;e mondiale et un engagement sans faille pour la s&eacute;curit&eacute; et la rapidit&eacute; des paiements.</p>
+      <p>Accessible depuis n'importe quel appareil : ordinateur, tablette ou smartphone : <strong>Betify</strong> offre une interface moderne au design sombre et &eacute;l&eacute;gant, une navigation intuitive et des fonctionnalit&eacute;s pens&eacute;es pour maximiser votre exp&eacute;rience de jeu. Que vous soyez amateur de <strong>machines &agrave; sous</strong>, de <strong>blackjack en direct</strong>, de <strong>paris sportifs sur le football</strong> ou de <strong>crash games comme Aviator</strong>, vous trouverez tout ce qu'il vous faut sur <strong>Betify</strong>.</p>
+      <p>Notre mission est simple : vous offrir la meilleure exp&eacute;rience de jeu en ligne possible, avec des <strong>bonus g&eacute;n&eacute;reux</strong>, un <strong>programme VIP</strong> r&eacute;compensant votre fid&eacute;lit&eacute;, et un <strong>support client disponible 24h/24 et 7j/7</strong> en fran&ccedil;ais.</p>
+
+      <h2>Betify Casino : Plus de 10 000 Jeux pour Tous les Go&ucirc;ts</h2>
+      <p>Le <strong>Betify Casino</strong> constitue le c&oelig;ur de notre plateforme. Avec environ <strong>10 000 titres</strong> disponibles, notre ludoth&egrave;que est l'une des plus compl&egrave;tes du march&eacute; fran&ccedil;ais : <strong>30 &agrave; 60% de jeux en plus</strong> que la majorit&eacute; des casinos en ligne concurrents.</p>
+      <p>Chaque jeu est s&eacute;lectionn&eacute; avec soin parmi les catalogues des meilleurs &eacute;diteurs mondiaux : <strong>Pragmatic Play</strong>, <strong>Evolution Gaming</strong>, <strong>NetEnt</strong>, <strong>Play'n GO</strong>, <strong>Betsoft</strong>, <strong>Hacksaw Gaming</strong>, <strong>EvoPlay</strong>, <strong>Spribe</strong> et bien d'autres. Au total, ce sont <strong>87 fournisseurs</strong> qui alimentent notre offre pour garantir une diversit&eacute; in&eacute;gal&eacute;e de th&egrave;mes, m&eacute;caniques et niveaux de volatilit&eacute;.</p>
+
+      <h3>Cat&eacute;gories de Jeux Disponibles sur Betify Casino</h3>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Cat&eacute;gorie</th><th>Nombre de jeux</th><th>RTP moyen</th><th>&Eacute;diteurs phares</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Machines &agrave; sous</td><td>~7 930</td><td>96,2%</td><td>Pragmatic Play, NetEnt, Play'n GO</td></tr>
+            <tr><td>Jeux de table RNG</td><td>~180</td><td>97,8%</td><td>Play'n GO, Betsoft, GameArt</td></tr>
+            <tr><td>First Person</td><td>~25</td><td>98,5%</td><td>Evolution (First Person)</td></tr>
+            <tr><td>Casino en direct</td><td>~120</td><td>97,4%</td><td>Evolution, Pragmatic Play Live, Playtech</td></tr>
+            <tr><td>Game Shows Live</td><td>~35</td><td>96,8%</td><td>Evolution, Pragmatic Play Live</td></tr>
+            <tr><td>Mini-jeux / Crash</td><td>~40</td><td>96,0%</td><td>Spribe, Pragmatic Play, EvoPlay</td></tr>
+            <tr><td>Sports virtuels</td><td>~30</td><td>95,5%</td><td>Inspired, Kiron, Leap Gaming</td></tr>
+            <tr><td>Paris sportifs</td><td>40+ sports</td><td>—</td><td>Betify Sportsbook</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Machines &agrave; Sous les Plus Populaires sur Betify</h3>
+      <p>Avec pr&egrave;s de <strong>7 930 machines &agrave; sous</strong>, <strong>Betify</strong> propose toutes les variantes imaginables : slots classiques &agrave; 3 rouleaux, vid&eacute;o slots &agrave; 5 rouleaux, Megaways, cluster pays, slots 3D et jackpots progressifs. Voici les titres les plus jou&eacute;s par nos utilisateurs :</p>
+      <ul>
+        <li><strong>Gates of Olympus 1000</strong> (Pragmatic Play) : multiplicateurs explosifs, volatilit&eacute; extr&ecirc;me, potentiel de gains massifs</li>
+        <li><strong>Sweet Bonanza</strong> (Pragmatic Play) : m&eacute;canique cluster pays avec multiplicateurs progressifs pouvant atteindre x100</li>
+        <li><strong>Serpent Gold: Hold &amp; Win</strong> (Boongo) : feature Hold &amp; Win avec bonus fr&eacute;quents et jackpots fixes</li>
+        <li><strong>The Dog House Megaways</strong> (Pragmatic Play) : wilds collants en bonus, jusqu'&agrave; 12 305 lignes de paiement</li>
+        <li><strong>Sugar Rush</strong> (Pragmatic Play) : grille color&eacute;e avec multiplicateurs qui augmentent &agrave; chaque cascade</li>
+        <li><strong>Chicken Road 2</strong> (EvoPlay) : mini-jeu original avec gains instantan&eacute;s et m&eacute;canisme risk/reward</li>
+        <li><strong>Le Bandit</strong> (Hacksaw Gaming) : haute volatilit&eacute;, multiplicateurs empilables jusqu'&agrave; x10 000</li>
+        <li><strong>Olympus 1000</strong> (Pragmatic Play) : version boost&eacute;e du classique avec multiplicateurs x1000</li>
+        <li><strong>MONOPOLY Big Baller</strong> (Evolution) : fusion entre game show et bingo, animation en direct</li>
+        <li><strong>Dead or Alive 2</strong> (NetEnt) : classique culte avec bonus tr&egrave;s volatils et potentiel x111 111</li>
+      </ul>
+      <p>Tous les jeux sont disponibles en <strong>mode d&eacute;mo gratuit</strong> pour vous permettre de tester les m&eacute;caniques avant de miser de l'argent r&eacute;el. C'est le meilleur moyen de comprendre la volatilit&eacute; et la fr&eacute;quence des bonus d'un jeu.</p>
+
+      <h3>Jeux de Table sur Betify Casino</h3>
+      <p>Les amateurs de jeux de table classiques trouveront un choix vari&eacute; de <strong>blackjack</strong>, <strong>roulette</strong>, <strong>baccarat</strong> et <strong>poker</strong> en version RNG (g&eacute;n&eacute;rateur de nombres al&eacute;atoires). <strong>Betify</strong> propose &eacute;galement les titres <strong>First Person</strong> d'Evolution, qui combinent le rendu visuel quasi-live avec la rapidit&eacute; du RNG.</p>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Jeu</th><th>RTP</th><th>Avantage maison</th><th>&Eacute;diteur</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Single Deck Blackjack MH</td><td>99,6%</td><td>0,4%</td><td>Play'n GO</td></tr>
+            <tr><td>Roulette Europ&eacute;enne</td><td>97,3%</td><td>2,7%</td><td>Betsoft</td></tr>
+            <tr><td>Caribbean Stud Poker</td><td>~96,5%</td><td>~3,5%</td><td>GameArt</td></tr>
+            <tr><td>Baccarat First Person</td><td>98,9%</td><td>1,1%</td><td>Evolution</td></tr>
+            <tr><td>French Roulette</td><td>97,3%</td><td>2,7%</td><td>NetEnt</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p><strong>Conseil :</strong> Pour optimiser votre bankroll sur le long terme, privil&eacute;giez le <strong>blackjack</strong> (meilleur RTP) et la <strong>roulette europ&eacute;enne</strong> (&eacute;vitez la roulette am&eacute;ricaine avec son double z&eacute;ro qui double l'avantage maison).</p>
+
+      <h3>Casino en Direct Betify : L'Exp&eacute;rience d'un Vrai Casino</h3>
+      <p>Le <strong>casino en direct Betify</strong> vous transporte au c&oelig;ur de l'action avec des <strong>croupiers professionnels</strong> film&eacute;s en HD depuis des studios ultramodernes. Avec plus de <strong>120 tables en direct</strong>, vous avez le choix entre des classiques et des game shows innovants.</p>
+      <p><strong>Tables exclusives Betify :</strong></p>
+      <ul>
+        <li><strong>Betify Blackjack</strong> : tables d&eacute;di&eacute;es avec limites adapt&eacute;es &agrave; tous les budgets</li>
+        <li><strong>Betify Roulette</strong> : roulette europ&eacute;enne en direct avec interface aux couleurs Betify</li>
+        <li><strong>Betify Speed Roulette</strong> : tours rapides de 25 secondes pour les joueurs exp&eacute;riment&eacute;s</li>
+        <li><strong>Betify One Blackjack</strong> : table unique o&ugrave; tous les joueurs partagent la m&ecirc;me main</li>
+      </ul>
+      <p><strong>Game Shows populaires :</strong></p>
+      <ul>
+        <li><strong>Crazy Time</strong> (Evolution) : roue de la fortune g&eacute;ante avec 4 bonus games</li>
+        <li><strong>Monopoly Live</strong> (Evolution) : le jeu de plateau mythique en version live interactive</li>
+        <li><strong>Sweet Bonanza CandyLand</strong> (Pragmatic Play Live) : game show color&eacute; avec multiplicateurs</li>
+        <li><strong>Mega Ball</strong> (Evolution) : fusion bingo/loterie avec multiplicateur jusqu'&agrave; x1 000 000</li>
+        <li><strong>Lightning Roulette</strong> (Evolution) : roulette avec multiplicateurs al&eacute;atoires jusqu'&agrave; x500</li>
+      </ul>
+      <p>Les studios <strong>Evolution</strong> et <strong>Pragmatic Play Live</strong> garantissent une qualit&eacute; d'image HD irr&eacute;prochable, des croupiers francophones et des sessions disponibles 24h/24.</p>
+
+      <h2>Mini-Jeux Betify : Aviator, Mines et Bien Plus</h2>
+      <p>Les <strong>mini-jeux</strong> occupent une place de choix sur <strong>Betify</strong>. Ces jeux rapides et addictifs offrent des sessions courtes avec un potentiel de gains &eacute;lev&eacute;. C'est la cat&eacute;gorie pr&eacute;f&eacute;r&eacute;e des joueurs qui recherchent de l'adr&eacute;naline pure.</p>
+      <ul>
+        <li><strong>Aviator</strong> (Spribe) : le crash game le plus populaire au monde, cash-out avant que l'avion ne s'envole</li>
+        <li><strong>Mines</strong> : d&eacute;mineur version casino, choisissez vos cases et &eacute;vitez les bombes</li>
+        <li><strong>Big Bass Crash</strong> (Pragmatic Play) : m&eacute;canique crash avec th&egrave;me p&ecirc;che</li>
+        <li><strong>Plinko</strong> (Spribe) : l&acirc;chez la bille et visez les multiplicateurs</li>
+        <li><strong>HiLo</strong> (Spribe) : devinez si la prochaine carte sera plus haute ou plus basse</li>
+        <li><strong>Lucky Jet</strong> : crash game avec un personnage &agrave; jet-pack</li>
+        <li><strong>Penalty Shoot-Out: Street</strong> (EvoPlay) : tirez des penalties et multipliez vos gains</li>
+        <li><strong>Zepilot</strong> : variante crash game avec zeppelin</li>
+      </ul>
+      <p>Ces mini-jeux sont accessibles directement depuis la sidebar de <strong>Betify</strong> et sont tous compatibles mobile.</p>
+
+      <h2>Betify Paris Sportif : Cotes Comp&eacute;titives sur 40+ Sports</h2>
+      <p><strong>Betify</strong> n'est pas seulement un casino : c'est aussi un <strong>bookmaker complet</strong> avec une section <strong>paris sportifs</strong> couvrant plus de <strong>40 disciplines</strong>, des ligues majeures aux comp&eacute;titions de niche.</p>
+
+      <h3>Sports Disponibles sur Betify</h3>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Cat&eacute;gorie</th><th>Sports</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Football</td><td>Ligue 1, Premier League, La Liga, Serie A, Bundesliga, Champions League, Europa League, Coupe du Monde</td></tr>
+            <tr><td>Basketball</td><td>NBA, EuroLeague, Pro A, championnats nationaux</td></tr>
+            <tr><td>Tennis</td><td>Grand Chelem (Roland-Garros, Wimbledon, US Open, Open d'Australie), ATP, WTA</td></tr>
+            <tr><td>Football am&eacute;ricain</td><td>NFL, NCAA</td></tr>
+            <tr><td>Hockey</td><td>NHL, KHL, SHL</td></tr>
+            <tr><td>Sports de combat</td><td>UFC, MMA, Boxe professionnelle</td></tr>
+            <tr><td>Volleyball</td><td>Nations League, championnats europ&eacute;ens</td></tr>
+            <tr><td>Handball</td><td>Championnat du monde, Starligue</td></tr>
+            <tr><td>Rugby</td><td>Top 14, Six Nations, Coupe du Monde</td></tr>
+            <tr><td>Cricket</td><td>IPL, The Ashes, T20 World Cup</td></tr>
+            <tr><td>eSports</td><td>League of Legends, Valorant, CS2, Dota 2, FIFA, Rocket League, NBA 2K</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Types de Paris Disponibles</h3>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Type de pari</th><th>Description</th><th>Id&eacute;al pour</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>Paris simples</strong></td><td>Misez sur un seul r&eacute;sultat</td><td>D&eacute;butants, paris s&eacute;curis&eacute;s</td></tr>
+            <tr><td><strong>Paris combin&eacute;s</strong></td><td>Combinez 2+ s&eacute;lections pour multiplier les cotes</td><td>Joueurs exp&eacute;riment&eacute;s</td></tr>
+            <tr><td><strong>Handicaps</strong></td><td>Avantage/d&eacute;savantage fictif pour &eacute;quilibrer les cotes</td><td>Matchs d&eacute;s&eacute;quilibr&eacute;s</td></tr>
+            <tr><td><strong>Paris en direct</strong></td><td>Pariez pendant le match avec cotes en temps r&eacute;el</td><td>R&eacute;activit&eacute;, adr&eacute;naline</td></tr>
+            <tr><td><strong>Over/Under</strong></td><td>Pariez sur le nombre total de buts, points, sets</td><td>Analyse statistique</td></tr>
+            <tr><td><strong>Buteur / Scoreur</strong></td><td>Pariez sur un joueur sp&eacute;cifique</td><td>Connaissance des joueurs</td></tr>
+            <tr><td><strong>Mi-temps / Fin de match</strong></td><td>R&eacute;sultat &agrave; la mi-temps et au coup de sifflet final</td><td>Strat&eacute;gie avanc&eacute;e</td></tr>
+            <tr><td><strong>March&eacute;s sp&eacute;ciaux</strong></td><td>Corners, cartons, statistiques d&eacute;taill&eacute;es</td><td>Experts</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Fonctionnalit&eacute;s Paris Sportifs Betify</h3>
+      <ul>
+        <li><strong>Cash-out</strong> : s&eacute;curisez vos gains ou limitez vos pertes &agrave; n'importe quel moment du match</li>
+        <li><strong>Cotes en temps r&eacute;el</strong> : mises &agrave; jour instantan&eacute;es pendant les &eacute;v&eacute;nements live</li>
+        <li><strong>Statistiques int&eacute;gr&eacute;es</strong> : acc&eacute;dez aux donn&eacute;es des &eacute;quipes et joueurs pour des d&eacute;cisions &eacute;clair&eacute;es</li>
+        <li><strong>Multi-paris</strong> : suivez et g&eacute;rez plusieurs paris en simultan&eacute; sur votre bet slip</li>
+        <li><strong>Freebets</strong> : utilisez vos paris gratuits obtenus via les bonus sur n'importe quel march&eacute;</li>
+        <li><strong>Compatible mobile</strong> : pariez en direct depuis votre smartphone gr&acirc;ce &agrave; la PWA Betify</li>
+      </ul>
+
+      <h2>Betify Avis : Une Note de 4.7/5 sur Trustpilot</h2>
+      <p>Avec plus de <strong>1 500 avis sur Trustpilot</strong> et une note moyenne de <strong>4.7 sur 5</strong>, <strong>Betify</strong> figure parmi les plateformes de jeu en ligne les mieux not&eacute;es par les joueurs en France. Ces retours refl&egrave;tent un engagement constant pour la qualit&eacute; du service, la rapidit&eacute; des paiements et la richesse du catalogue.</p>
+
+      <h3>Pourquoi les Joueurs Choisissent Betify</h3>
+      <ul>
+        <li><span class="seo-badge">10 000+ jeux</span> : le catalogue le plus vaste du march&eacute; fran&ccedil;ais</li>
+        <li><span class="seo-badge">87 fournisseurs</span> : diversit&eacute; in&eacute;gal&eacute;e de styles et de m&eacute;caniques</li>
+        <li><strong>Retraits en 24 &agrave; 48h</strong> : parmi les plus rapides du secteur</li>
+        <li><strong>Z&eacute;ro frais</strong> : aucun frais cach&eacute; sur les d&eacute;p&ocirc;ts et retraits</li>
+        <li><strong>Programme VIP 18 niveaux</strong> : cashback de 1% &agrave; 20%</li>
+        <li><strong>Support 24/7</strong> : chat en direct, email et t&eacute;l&eacute;phone en fran&ccedil;ais</li>
+        <li><strong>Bonus de bienvenue</strong> : casino et paris sportifs</li>
+        <li><strong>Missions quotidiennes</strong> : d&eacute;fis chaque jour pour gagner des r&eacute;compenses</li>
+        <li><strong>Boutique Bytes</strong> : &eacute;changez vos points fid&eacute;lit&eacute; contre du cash et des free spins</li>
+        <li><strong>Roue de la Fortune</strong> : tours gratuits avec lots instantan&eacute;s</li>
+        <li><strong>Sponsors prestigieux</strong> : Floyd Mayweather, Ronaldinho, Fnatic</li>
+        <li><strong>S&eacute;curit&eacute; SSL</strong> : protection de toutes vos donn&eacute;es personnelles et financi&egrave;res</li>
+      </ul>
+
+      <h3>T&eacute;moignages de Joueurs Betify</h3>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Joueur</th><th>Note</th><th>T&eacute;moignage</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Julien93</td><td>5/5</td><td>La vari&eacute;t&eacute; des machines &agrave; sous est impressionnante, chaque session donne envie de revenir sur Betify.</td></tr>
+            <tr><td>Claire_Lyon</td><td>5/5</td><td>Le casino en direct Betify est excellent, croupiers professionnels et ambiance immersive garantie.</td></tr>
+            <tr><td>Marc75</td><td>4/5</td><td>Beaucoup de jeux, plateforme stable. Betify offre toujours de quoi tester sans jamais s'ennuyer.</td></tr>
+            <tr><td>PtonioP</td><td>5/5</td><td>Plateforme tr&egrave;s int&eacute;ressante pour les paris sportifs, je recommande. Service technique tr&egrave;s r&eacute;actif.</td></tr>
+            <tr><td>Arnaud S.</td><td>5/5</td><td>Tr&egrave;s bonne plateforme, vari&eacute;e et compl&egrave;te. Les paris sportifs sont au top avec des cotes comp&eacute;titives.</td></tr>
+            <tr><td>Mickael L.</td><td>4/5</td><td>Casino fiable et tr&egrave;s agr&eacute;able. Excellent site avec une belle s&eacute;lection de jeux.</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Betify Connexion : Acc&eacute;dez &agrave; Votre Compte en Quelques Secondes</h2>
+      <p>La <strong>connexion &agrave; Betify</strong> est rapide, simple et enti&egrave;rement s&eacute;curis&eacute;e. Que vous soyez sur ordinateur ou sur mobile, acc&eacute;der &agrave; votre compte ne prend que quelques secondes.</p>
+
+      <h3>Comment se Connecter &agrave; Betify</h3>
+      <ol>
+        <li>Rendez-vous sur le site officiel <strong>Betify</strong></li>
+        <li>Cliquez sur le bouton <strong>&laquo; S'identifier &raquo;</strong> en haut &agrave; droite du header</li>
+        <li>Entrez votre <strong>adresse email</strong> et votre <strong>mot de passe</strong></li>
+        <li>Cliquez sur <strong>&laquo; Connexion &raquo;</strong></li>
+        <li>Vous acc&eacute;dez imm&eacute;diatement &agrave; votre tableau de bord, vos jeux et votre portefeuille</li>
+      </ol>
+      <p>En cas d'oubli de mot de passe, cliquez sur <strong>&laquo; Mot de passe oubli&eacute; &raquo;</strong> pour recevoir un lien de r&eacute;initialisation par email. Notre support client est &eacute;galement disponible <strong>24h/24</strong> pour vous accompagner.</p>
+
+      <h3>Cr&eacute;er un Compte Betify : Inscription Gratuite en 2 Minutes</h3>
+      <p>Rejoindre <strong>Betify</strong> est gratuit et ne prend que <strong>2 minutes</strong> :</p>
+      <ol>
+        <li>Cliquez sur le bouton vert <strong>&laquo; Inscription &raquo;</strong> en haut &agrave; droite</li>
+        <li>Renseignez votre <strong>pseudo</strong>, <strong>email</strong>, <strong>mot de passe</strong> et <strong>pays</strong></li>
+        <li>Choisissez votre <strong>devise</strong> (EUR recommand&eacute; pour la France)</li>
+        <li>Acceptez les <strong>conditions g&eacute;n&eacute;rales</strong> et confirmez avoir plus de 18 ans</li>
+        <li>Validez votre compte via le <strong>lien de confirmation</strong> envoy&eacute; par email</li>
+        <li>Renseignez vos informations compl&eacute;mentaires : nom, pr&eacute;nom, adresse, date de naissance</li>
+        <li>Connectez-vous et profitez de l'ensemble de la plateforme</li>
+      </ol>
+      <p>Vous pouvez &eacute;galement vous inscrire rapidement via votre compte <strong>Google</strong> ou <strong>Twitch</strong>.</p>
+      <p><strong>Note :</strong> Une v&eacute;rification <strong>KYC</strong> (pi&egrave;ce d'identit&eacute; + justificatif de domicile) sera demand&eacute;e avant votre premier retrait pour garantir la s&eacute;curit&eacute; de votre compte.</p>
+
+      <h2>Betify France : Bonus et Promotions Exclusives</h2>
+      <p><strong>Betify</strong> accueille ses nouveaux joueurs en <strong>France</strong> avec des offres g&eacute;n&eacute;reuses et r&eacute;compense la fid&eacute;lit&eacute; de ses membres avec un syst&egrave;me de promotions permanentes.</p>
+
+      <h3>Tous les Bonus Betify en un Coup d'&OElig;il</h3>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Offre</th><th>D&eacute;tails</th><th>Conditions</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>Bonus de bienvenue Casino</strong></td><td>100% jusqu'&agrave; 500 &euro; + Free Spins</td><td>D&eacute;p&ocirc;t min 20 &euro;, wager x35, validit&eacute; 14 jours</td></tr>
+            <tr><td><strong>Bonus Paris Sportifs</strong></td><td>50% du 1er d&eacute;p&ocirc;t en freebet (jusqu'&agrave; 200 &euro;)</td><td>D&eacute;p&ocirc;t min 20 &euro;, wager x1, KYC requis</td></tr>
+            <tr><td><strong>Bonus sans d&eacute;p&ocirc;t</strong></td><td>20 Free Spins sans wager</td><td>KYC obligatoire, gains max 50 &euro;</td></tr>
+            <tr><td><strong>Cashback hebdomadaire</strong></td><td>De 1% &agrave; 20% selon niveau VIP</td><td>Cr&eacute;dit&eacute; automatiquement chaque semaine</td></tr>
+            <tr><td><strong>Programme VIP</strong></td><td>18 niveaux avec avantages croissants</td><td>Progression bas&eacute;e sur les mises</td></tr>
+            <tr><td><strong>Missions quotidiennes</strong></td><td>D&eacute;fis chaque jour = r&eacute;compenses</td><td>Nouveaux d&eacute;fis tous les jours</td></tr>
+            <tr><td><strong>Roue de la Fortune</strong></td><td>Gains jusqu'&agrave; 3 000&euro; + Free Spins quotidiens</td><td>Gratuit, disponible chaque jour</td></tr>
+            <tr><td><strong>Boutique Bytes</strong></td><td>&Eacute;changez vos points contre cash, FS et coffres</td><td>Accumulez des Bytes en jouant</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Programme VIP Betify : 18 Niveaux d'Avantages Exclusifs</h3>
+      <p>Le <strong>programme VIP Betify</strong> est l'un des plus complets du march&eacute; avec <strong>18 niveaux</strong> progressifs. Plus vous jouez, plus vos avantages augmentent :</p>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Niveaux</th><th>Cashback</th><th>Retrait jour max</th><th>Retrait mois max</th><th>Gestionnaire d&eacute;di&eacute;</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>1 &agrave; 3</strong></td><td>1%</td><td>1 500 &euro;</td><td>10 000 &euro;</td><td>Non</td></tr>
+            <tr><td><strong>4 &agrave; 6</strong></td><td>2%</td><td>1 750 &euro;</td><td>15 000 &euro;</td><td>Non</td></tr>
+            <tr><td><strong>7 &agrave; 9</strong></td><td>3 &agrave; 5%</td><td>2 000 &euro;</td><td>20 000 &euro;</td><td>Non</td></tr>
+            <tr><td><strong>10 &agrave; 12</strong></td><td>6 &agrave; 8%</td><td>2 000 &euro;</td><td>25 000 &euro;</td><td>Oui</td></tr>
+            <tr><td><strong>13 &agrave; 15</strong></td><td>10 &agrave; 14%</td><td>2 500 &euro;</td><td>30 000 &euro;</td><td>Oui</td></tr>
+            <tr><td><strong>16 &agrave; 17</strong></td><td>16 &agrave; 18%</td><td>3 000 &agrave; 5 000 &euro;</td><td>50 000 &agrave; 100 000 &euro;</td><td>Oui</td></tr>
+            <tr><td><strong>18 (Max)</strong></td><td><strong>20%</strong></td><td><strong>Illimit&eacute;</strong></td><td><strong>Illimit&eacute;</strong></td><td>Oui</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p>&Agrave; partir du <strong>niveau 10</strong>, vous b&eacute;n&eacute;ficiez d'un <strong>gestionnaire de compte personnel</strong> d&eacute;di&eacute; pour un accompagnement sur mesure.</p>
+
+      <h2>Paiements Betify : D&eacute;p&ocirc;ts Instantan&eacute;s et Retraits Rapides</h2>
+      <p>La gestion financi&egrave;re sur <strong>Betify</strong> est pens&eacute;e pour &ecirc;tre <strong>rapide</strong>, <strong>s&eacute;curis&eacute;e</strong> et <strong>sans frais cach&eacute;s</strong>. Nous proposons une large gamme de m&eacute;thodes de paiement adapt&eacute;es aux habitudes des joueurs en France.</p>
+
+      <h3>M&eacute;thodes de Paiement Accept&eacute;es</h3>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>M&eacute;thode</th><th>D&eacute;p&ocirc;t min/max</th><th>Retrait min/max</th><th>D&eacute;lai de retrait</th><th>Frais</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>Visa / Mastercard</strong></td><td>20 &euro; – 10 000 &euro;</td><td>50 &euro; – 1 500 &euro;</td><td>48 &agrave; 72h</td><td>0%</td></tr>
+            <tr><td><strong>Google Pay</strong></td><td>20 &euro; – 10 000 &euro;</td><td>—</td><td>Instantan&eacute;</td><td>0%</td></tr>
+            <tr><td><strong>Apple Pay</strong></td><td>20 &euro; – 10 000 &euro;</td><td>—</td><td>Instantan&eacute;</td><td>0%</td></tr>
+            <tr><td><strong>MiFinity</strong></td><td>20 &euro; – 2 500 &euro;</td><td>50 &euro; – 50 000 &euro;</td><td>24 &agrave; 48h</td><td>0%</td></tr>
+            <tr><td><strong>Skrill</strong></td><td>20 &euro; – 2 000 &euro;</td><td>50 &euro; – 1 500 &euro;</td><td>24 &agrave; 48h</td><td>0%</td></tr>
+            <tr><td><strong>Neteller</strong></td><td>20 &euro; – 2 000 &euro;</td><td>50 &euro; – 1 500 &euro;</td><td>24 &agrave; 48h</td><td>0%</td></tr>
+            <tr><td><strong>ecoPayz</strong></td><td>20 &euro; – 10 000 &euro;</td><td>50 &euro; – 1 500 &euro;</td><td>24 &agrave; 48h</td><td>0%</td></tr>
+            <tr><td><strong>Cashlib</strong></td><td>20 &euro; – 1 000 &euro;</td><td>—</td><td>—</td><td>0%</td></tr>
+            <tr><td><strong>Flexepin</strong></td><td>20 &euro; – 1 000 &euro;</td><td>—</td><td>—</td><td>0%</td></tr>
+            <tr><td><strong>Virement bancaire</strong></td><td>20 &euro; – 10 000 &euro;</td><td>50 &euro; – 50 000 &euro;</td><td>48 &agrave; 72h</td><td>0%</td></tr>
+            <tr><td><strong>Bitcoin (BTC)</strong></td><td>50 &euro; – 1 000 000 &euro;</td><td>60 &euro; – 2 000 000 &euro;</td><td>Instantan&eacute;</td><td>0%</td></tr>
+            <tr><td><strong>Ethereum (ETH)</strong></td><td>50 &euro; – 1 000 000 &euro;</td><td>60 &euro; – 2 000 000 &euro;</td><td>Instantan&eacute;</td><td>0%</td></tr>
+            <tr><td><strong>USDT (Tether)</strong></td><td>50 &euro; – 1 000 000 &euro;</td><td>60 &euro; – 2 000 000 &euro;</td><td>Instantan&eacute;</td><td>0%</td></tr>
+            <tr><td><strong>Litecoin (LTC)</strong></td><td>50 &euro; – 1 000 000 &euro;</td><td>60 &euro; – 2 000 000 &euro;</td><td>Instantan&eacute;</td><td>0%</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Comment D&eacute;poser sur Betify</h3>
+      <ol>
+        <li>Connectez-vous &agrave; votre compte <strong>Betify</strong></li>
+        <li>Cliquez sur votre solde puis sur <strong>&laquo; D&eacute;p&ocirc;t &raquo;</strong></li>
+        <li>Choisissez votre <strong>m&eacute;thode de paiement</strong></li>
+        <li>Entrez le <strong>montant</strong> &agrave; d&eacute;poser (minimum 20 &euro;)</li>
+        <li>Validez la transaction : votre solde est cr&eacute;dit&eacute; <strong>instantan&eacute;ment</strong></li>
+      </ol>
+
+      <h3>Comment Retirer vos Gains sur Betify</h3>
+      <ol>
+        <li>Acc&eacute;dez &agrave; votre portefeuille et cliquez sur <strong>&laquo; Retrait &raquo;</strong></li>
+        <li>S&eacute;lectionnez votre <strong>m&eacute;thode de retrait</strong></li>
+        <li>Indiquez le <strong>montant</strong> &agrave; retirer (minimum 50 &euro;)</li>
+        <li>Confirmez vos <strong>coordonn&eacute;es de paiement</strong></li>
+        <li>Validez : traitement sous <strong>24 &agrave; 48 heures</strong> (instantan&eacute; en crypto)</li>
+      </ol>
+      <p><strong>Politique z&eacute;ro frais :</strong> Betify ne pr&eacute;l&egrave;ve aucun frais sur vos d&eacute;p&ocirc;ts et retraits. 100% du montant affich&eacute; vous est vers&eacute;.</p>
+
+      <h2>Betify Login : S&eacute;curit&eacute; Maximale pour Votre Compte</h2>
+      <p>La <strong>s&eacute;curit&eacute;</strong> est au c&oelig;ur de l'exp&eacute;rience <strong>Betify</strong>. Chaque <strong>login</strong> est prot&eacute;g&eacute; par les technologies les plus avanc&eacute;es du march&eacute;.</p>
+
+      <h3>Mesures de S&eacute;curit&eacute; en Place</h3>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Mesure</th><th>Description</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>Chiffrement SSL</strong></td><td>Toutes les donn&eacute;es &eacute;chang&eacute;es entre votre navigateur et Betify sont crypt&eacute;es via SSL (Google Trust Services)</td></tr>
+            <tr><td><strong>V&eacute;rification KYC</strong></td><td>Pi&egrave;ce d'identit&eacute; + justificatif de domicile obligatoires pour s&eacute;curiser votre compte</td></tr>
+            <tr><td><strong>Scan anti-malware</strong></td><td>Site r&eacute;guli&egrave;rement scann&eacute; et certifi&eacute; s&ucirc;r par VirusTotal</td></tr>
+            <tr><td><strong>Licence de jeu</strong></td><td>Betify op&egrave;re sous licence Cura&ccedil;ao eGaming (n° OGL/2023/109/0075)</td></tr>
+            <tr><td><strong>Provably Fair</strong></td><td>Les jeux de crash et mini-jeux utilisent la technologie Provably Fair : chaque r&eacute;sultat est v&eacute;rifiable par les joueurs, garantissant une &eacute;quit&eacute; totale et transparente</td></tr>
+            <tr><td><strong>Jeu responsable</strong></td><td>Outils de limites de d&eacute;p&ocirc;t, de pertes et d'auto-exclusion disponibles</td></tr>
+            <tr><td><strong>Support 24/7</strong></td><td>Assistance imm&eacute;diate par chat, email (<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="74070104041b0600341611001d120d5a171b19">[email&#160;protected]</a>) et t&eacute;l&eacute;phone</td></tr>
+            <tr><td><strong>Transparence</strong></td><td>Conditions g&eacute;n&eacute;rales, politique de confidentialit&eacute; et r&egrave;gles du jeu responsable accessibles &agrave; tout moment</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>Nos Engagements pour le Jeu Responsable</h3>
+      <p><strong>Betify</strong> s'engage &agrave; promouvoir un environnement de jeu sain et responsable :</p>
+      <ul>
+        <li><strong>Limites de d&eacute;p&ocirc;t</strong> : d&eacute;finissez un plafond journalier, hebdomadaire ou mensuel</li>
+        <li><strong>Limites de pertes</strong> : prot&eacute;gez votre bankroll en fixant un maximum de pertes</li>
+        <li><strong>Auto-exclusion</strong> : prenez une pause temporaire ou d&eacute;finitive si n&eacute;cessaire</li>
+        <li><strong>Rappels de session</strong> : recevez des alertes apr&egrave;s une dur&eacute;e de jeu d&eacute;finie</li>
+        <li><strong>Acc&egrave;s aux ressources</strong> : liens vers Joueurs Info Service et Addictaide disponibles</li>
+      </ul>
+      <p>Le jeu doit rester un divertissement. Si vous ressentez le besoin d'aide, contactez <strong>Joueurs Info Service</strong> au <strong>09 74 75 13 13</strong> (appel non surtax&eacute;).</p>
+
+      <h2>Application Mobile Betify : Jouez Partout en France</h2>
+      <p><strong>Betify</strong> est enti&egrave;rement accessible sur mobile gr&acirc;ce &agrave; sa <strong>PWA</strong> (Progressive Web App). Cette technologie vous permet de profiter de l'exp&eacute;rience compl&egrave;te : casino, paris sportifs, mini-jeux, compte et paiements : directement depuis le navigateur de votre smartphone, sans aucun t&eacute;l&eacute;chargement.</p>
+
+      <h3>Comment Installer Betify sur Votre Smartphone</h3>
+      <ol>
+        <li>Ouvrez le site <strong>Betify</strong> dans le navigateur de votre t&eacute;l&eacute;phone (Chrome, Safari)</li>
+        <li>Appuyez sur <strong>&laquo; Ajouter &agrave; l'&eacute;cran d'accueil &raquo;</strong> (menu du navigateur)</li>
+        <li>Confirmez et retrouvez l'ic&ocirc;ne <strong>Betify</strong> sur votre &eacute;cran principal</li>
+        <li>Lancez <strong>Betify</strong> comme n'importe quelle application</li>
+      </ol>
+
+      <h3>Avantages de la PWA Betify</h3>
+      <ul>
+        <li><strong>Aucun t&eacute;l&eacute;chargement</strong> : pas besoin de passer par l'App Store ou Google Play</li>
+        <li><strong>Mises &agrave; jour automatiques</strong> : toujours la derni&egrave;re version sans action de votre part</li>
+        <li><strong>Interface optimis&eacute;e tactile</strong> : navigation fluide pens&eacute;e pour le mobile</li>
+        <li><strong>Acc&egrave;s complet</strong> : tous les jeux, paris, bonus et fonctionnalit&eacute;s disponibles</li>
+        <li><strong>Notifications</strong> : recevez les offres et promotions en temps r&eacute;el</li>
+        <li><strong>Compatible iOS et Android</strong> : fonctionne sur tous les smartphones et tablettes</li>
+      </ul>
+
+      <h2>Fournisseurs de Jeux Partenaires de Betify</h2>
+      <p><strong>Betify</strong> collabore avec <strong>87 &eacute;diteurs</strong> de jeux pour offrir le catalogue le plus diversifi&eacute; possible. Voici nos principaux partenaires :</p>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>&Eacute;diteur</th><th>Sp&eacute;cialit&eacute;</th><th>Jeux phares</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>Pragmatic Play</strong></td><td>Slots, Live Casino</td><td>Gates of Olympus, Sweet Bonanza, Big Bass</td></tr>
+            <tr><td><strong>Evolution</strong></td><td>Casino Live, Game Shows</td><td>Crazy Time, Monopoly Live, Lightning Roulette</td></tr>
+            <tr><td><strong>NetEnt</strong></td><td>Slots classiques</td><td>Dead or Alive, Starburst, Gonzo's Quest</td></tr>
+            <tr><td><strong>Play'n GO</strong></td><td>Slots, Jeux de table</td><td>Book of Dead, Reactoonz, Fire Joker</td></tr>
+            <tr><td><strong>Hacksaw Gaming</strong></td><td>Slots haute volatilit&eacute;</td><td>Le Bandit, Wanted Dead or a Wild</td></tr>
+            <tr><td><strong>Betsoft</strong></td><td>Slots 3D, Jeux de table</td><td>Take the Bank, Gold Canyon</td></tr>
+            <tr><td><strong>Spribe</strong></td><td>Mini-jeux / Crash</td><td>Aviator, Plinko, HiLo, Mines</td></tr>
+            <tr><td><strong>EvoPlay</strong></td><td>Slots, Mini-jeux</td><td>Penalty Shoot-Out, Fruit Super Nova</td></tr>
+            <tr><td><strong>TVBET</strong></td><td>Jeux live</td><td>Keno, Wheel of Fortune, PokerBet</td></tr>
+            <tr><td><strong>EGT</strong></td><td>Slots classiques</td><td>40 Super Hot, Shining Crown</td></tr>
+            <tr><td><strong>Spinocchio</strong></td><td>Slots innovantes</td><td>Catalogues vari&eacute;s</td></tr>
+            <tr><td><strong>Penguin King</strong></td><td>Slots</td><td>Titres exclusifs</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h2>Betify Batailles : Tournois de Casino avec Prizes Pools</h2>
+      <p>Les <strong>Batailles Betify</strong> sont des tournois de casino o&ugrave; l'objectif est simple : <strong>accumuler le maximum de gains</strong> en un temps limit&eacute; pour grimper dans le classement et remporter une part du prize pool.</p>
+
+      <h3>Comment Fonctionnent les Batailles</h3>
+      <ol>
+        <li>Consultez les tournois actifs dans la section <strong>&laquo; Batailles &raquo;</strong></li>
+        <li>Cliquez sur <strong>&laquo; Participer &raquo;</strong> pour rejoindre un challenge</li>
+        <li>Jouez sur les jeux &eacute;ligibles pendant la dur&eacute;e du tournoi</li>
+        <li>Accumulez des points en fonction de vos gains et multiplicateurs</li>
+        <li>Suivez votre classement en <strong>temps r&eacute;el</strong> sur le leaderboard</li>
+        <li>Les meilleurs joueurs remportent une part du <strong>prize pool</strong> (jusqu'&agrave; 75 000 coins et plus)</li>
+      </ol>
+      <p>Les Batailles sont ouvertes &agrave; tous les joueurs et offrent une dimension comp&eacute;titive unique &agrave; votre exp&eacute;rience casino.</p>
+
+      <h2>Contacter le Support Betify</h2>
+      <p>Notre &eacute;quipe de support est disponible <strong>24 heures sur 24, 7 jours sur 7</strong> pour r&eacute;pondre &agrave; toutes vos questions.</p>
+      <div class="seo-table-wrap">
+        <table class="seo-table">
+          <thead>
+            <tr><th>Canal</th><th>Disponibilit&eacute;</th><th>Temps de r&eacute;ponse moyen</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><strong>Chat en direct</strong></td><td>24/7</td><td>Moins de 1 minute</td></tr>
+            <tr><td><strong>Email</strong></td><td>24/7</td><td>1 &agrave; 2 heures</td></tr>
+            <tr><td><strong>T&eacute;l&eacute;phone</strong></td><td>24/7</td><td>Moins de 2 minutes</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p><strong>Email :</strong> <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="85f6f0f5f5eaf7f1c5e7e0f1ece3fcabe6eae8">[email&#160;protected]</a><br><strong>T&eacute;l&eacute;phone :</strong> +35 725 654 149</p>
+      <p>Le support est disponible en <strong>fran&ccedil;ais</strong> et dans plusieurs autres langues.</p>
+
+      <h2>FAQ Betify : Toutes les R&eacute;ponses &agrave; Vos Questions</h2>
+
+      <div class="seo-faq">
+        <details>
+          <summary>Qu'est-ce que Betify ?</summary>
+          <p><strong>Betify</strong> est une plateforme de <strong>casino en ligne</strong> et de <strong>paris sportifs</strong> proposant plus de <strong>10 000 jeux</strong>, des cotes comp&eacute;titives sur <strong>40+ sports</strong>, un <strong>programme VIP &agrave; 18 niveaux</strong> et des <strong>paiements rapides et s&eacute;curis&eacute;s</strong>. Accessible aux joueurs en <strong>France</strong>, Betify r&eacute;unit les meilleurs &eacute;diteurs de jeux et offre une exp&eacute;rience compl&egrave;te sur ordinateur et mobile.</p>
+        </details>
+        <details>
+          <summary>Comment s'inscrire sur Betify ?</summary>
+          <p>L'inscription sur <strong>Betify</strong> est gratuite et prend <strong>2 minutes</strong>. Cliquez sur &laquo; Inscription &raquo;, renseignez vos informations (pseudo, email, mot de passe, pays), confirmez votre email et commencez &agrave; jouer imm&eacute;diatement. Vous pouvez aussi vous inscrire via <strong>Google</strong> ou <strong>Twitch</strong>.</p>
+        </details>
+        <details>
+          <summary>Betify est-il fiable ?</summary>
+          <p>Oui. <strong>Betify</strong> d&eacute;tient une <strong>licence Cura&ccedil;ao eGaming</strong>, utilise un <strong>chiffrement SSL</strong>, et affiche une note de <strong>4.7/5 sur Trustpilot</strong> avec plus de <strong>1 500 avis</strong>. Les retraits sont trait&eacute;s sous <strong>24 &agrave; 48 heures</strong> sans aucun frais cach&eacute;.</p>
+        </details>
+        <details>
+          <summary>Comment se connecter &agrave; Betify ?</summary>
+          <p>Rendez-vous sur le site <strong>Betify</strong>, cliquez sur <strong>&laquo; S'identifier &raquo;</strong>, entrez votre email et mot de passe. En cas d'oubli, utilisez la fonction <strong>&laquo; Mot de passe oubli&eacute; &raquo;</strong> ou contactez le support <strong>24/7</strong>.</p>
+        </details>
+        <details>
+          <summary>Quels sont les moyens de paiement accept&eacute;s sur Betify ?</summary>
+          <p><strong>Betify</strong> accepte : <strong>Visa</strong>, <strong>Mastercard</strong>, <strong>Skrill</strong>, <strong>Neteller</strong>, <strong>MiFinity</strong>, <strong>ecoPayz</strong>, <strong>Cashlib</strong>, <strong>Flexepin</strong>, les <strong>cryptomonnaies</strong> (Bitcoin, Ethereum, USDT, Litecoin) et les <strong>virements bancaires</strong>. Tous les paiements sont sans frais.</p>
+        </details>
+        <details>
+          <summary>Combien de temps prend un retrait sur Betify ?</summary>
+          <p>Les retraits en <strong>crypto</strong> sont <strong>quasi instantan&eacute;s</strong> (quelques minutes). Les <strong>portefeuilles &eacute;lectroniques</strong> (Skrill, Neteller, MiFinity) prennent <strong>24 &agrave; 48 heures</strong>. Les <strong>cartes bancaires</strong> et <strong>virements</strong> n&eacute;cessitent <strong>48 &agrave; 72 heures</strong>.</p>
+        </details>
+        <details>
+          <summary>Betify est-il accessible en France ?</summary>
+          <p>Oui, <strong>Betify</strong> est enti&egrave;rement accessible aux joueurs en <strong>France</strong>, avec une interface en fran&ccedil;ais, un support client francophone disponible 24/7 et des m&eacute;thodes de paiement adapt&eacute;es au march&eacute; fran&ccedil;ais.</p>
+        </details>
+        <details>
+          <summary>Betify propose-t-il une application mobile ?</summary>
+          <p><strong>Betify</strong> fonctionne via une <strong>PWA</strong> (Progressive Web App) que vous pouvez installer directement depuis votre navigateur. Elle offre la m&ecirc;me exp&eacute;rience qu'une application native : tous les jeux, paris et fonctionnalit&eacute;s sont accessibles : sans t&eacute;l&eacute;chargement depuis un store.</p>
+        </details>
+        <details>
+          <summary>Quel est le d&eacute;p&ocirc;t minimum sur Betify ?</summary>
+          <p>Le <strong>d&eacute;p&ocirc;t minimum</strong> sur <strong>Betify</strong> est de <strong>20 &euro;</strong> pour la plupart des m&eacute;thodes de paiement (Visa, Mastercard, Skrill, MiFinity, virement). Pour les <strong>cryptomonnaies</strong>, le minimum est de <strong>50 &euro;</strong>.</p>
+        </details>
+        <details>
+          <summary>Betify propose-t-il un bonus de bienvenue ?</summary>
+          <p>Oui, <strong>Betify</strong> offre un <strong>bonus de bienvenue casino</strong> de <strong>100% jusqu'&agrave; 500 &euro;</strong> + Free Spins, ainsi qu'un <strong>bonus paris sportifs</strong> de <strong>50% du premier d&eacute;p&ocirc;t</strong> en freebet. Des <strong>free spins sans d&eacute;p&ocirc;t</strong> sont &eacute;galement disponibles pour les nouveaux inscrits.</p>
+        </details>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ========== FOOTER ========== -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div class="footer-columns">
+        <!-- Col 1: Logo + Social -->
+        <div class="footer-col footer-col-brand">
+          <a href="/" class="footer-logo" aria-label="Betify - Accueil">
+            <img src="images/logo.svg" alt="Betify Logo" width="110" height="32" loading="lazy">
+          </a>
+          <div class="footer-social">
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+            <a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer" aria-label="Telegram"><i class="fab fa-telegram-plane"></i></a>
+          </div>
+        </div>
+        <!-- Col 2: Liens utiles -->
+        <div class="footer-col">
+          <h3 class="footer-heading">Liens utiles</h3>
+          <ul>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Aviator</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Mines</a></li>
+          </ul>
+        </div>
+        <!-- Col 3: Assistance -->
+        <div class="footer-col">
+          <h3 class="footer-heading">Assistance</h3>
+          <ul>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">FAQ</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Live support</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Affilies</a></li>
+          </ul>
+        </div>
+        <!-- Col 4: Promo -->
+        <div class="footer-col">
+          <h3 class="footer-heading">Promo</h3>
+          <ul>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Promotions</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Tournois</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Freespins</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Boutique</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Vip club</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Cashback</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Daily missions</a></li>
+          </ul>
+        </div>
+        <!-- Col 5: A propos -->
+        <div class="footer-col">
+          <h3 class="footer-heading">A propos de nous</h3>
+          <ul>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">T&amp;C</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Anti Policy</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Regles Sportives</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Politique de confidentialite</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Conditions de bonus</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">Jeu responsable</a></li>
+            <li><a href="https://record.betifypartners1.com/_dK1WVuQMz6RfWQTENI37dGNd7ZgqdRLk/46/?payload=GREENTRACK&pg=11" target="_blank" rel="nofollow noopener noreferrer">A propos de nous</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Payment logos -->
+      <div class="footer-payments">
+        <img src="images/dennier-clubdeliver.svg" alt="Discover" width="80" height="40" loading="lazy">
+        <img src="images/mifinity-2.svg" alt="MiFinity" width="80" height="40" loading="lazy">
+        <img src="images/neosurf.svg" alt="Neosurf" width="80" height="40" loading="lazy">
+        <img src="images/interac.svg" alt="Interac" width="80" height="40" loading="lazy">
+        <img src="images/ecopayz.svg" alt="ecoPayz" width="80" height="40" loading="lazy">
+        <img src="images/bitcoin.svg" alt="Bitcoin" width="80" height="40" loading="lazy">
+        <img src="images/neteller.svg" alt="Neteller" width="80" height="40" loading="lazy">
+        <img src="images/skrill.svg" alt="Skrill" width="80" height="40" loading="lazy">
+        <img src="images/mastercard.svg" alt="Mastercard" width="80" height="40" loading="lazy">
+        <img src="images/visa.svg" alt="Visa" width="80" height="40" loading="lazy">
+        <img src="images/jcb.svg" alt="JCB" width="80" height="40" loading="lazy">
+      </div>
+
+      <!-- Legal -->
+      <div class="footer-legal">
+        <span class="badge-18">18+</span>
+        <p>Gambling can be addictive. Play responsibly. &copy;2025 vitacolo.fr All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="js/main.js" defer></script>
+</body>
+</html>
