@@ -532,7 +532,7 @@ export function SEOContent() {
             </table>
           </div>
 
-          <p><strong>Email :</strong> support@betify.com<br />
+          <p><strong>Email :</strong> support[at]betify[dot]com<br />
           <strong>Téléphone :</strong> +35 725 654 149</p>
 
           {/* FAQ */}
