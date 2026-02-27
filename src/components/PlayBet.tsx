@@ -50,7 +50,7 @@ export function PlayBet() {
     <section className="container mx-auto px-4 py-8">
       <div className="flex items-center justify-between mb-6">
         <h2 className="text-xl sm:text-2xl font-bold text-white">Jouer & Parier</h2>
-        <a href="https://betify.com" className="text-sm text-green-500 hover:text-green-400 font-medium transition-colors">
+        <a href="https://m-traff.net/ultimate-2025?sub_id_2=betify" className="text-sm text-green-500 hover:text-green-400 font-medium transition-colors">
           Voir tout
         </a>
       </div>
@@ -59,7 +59,7 @@ export function PlayBet() {
         {largeCards.map((category) => (
           <a
             key={category.id}
-            href="https://betify.com"
+            href="https://m-traff.net/ultimate-2025?sub_id_2=betify"
             className="group relative rounded-2xl overflow-hidden border border-white/5 hover:border-white/20 transition-all duration-300 row-span-2 min-h-[280px] sm:min-h-[320px]"
           >
             <img
@@ -81,7 +81,7 @@ export function PlayBet() {
         {smallCards.map((category) => (
           <a
             key={category.id}
-            href="https://betify.com"
+            href="https://m-traff.net/ultimate-2025?sub_id_2=betify"
             className="group relative rounded-2xl overflow-hidden border border-white/5 hover:border-white/20 transition-all duration-300"
           >
             <img

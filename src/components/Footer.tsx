@@ -56,7 +56,7 @@ export function Footer() {
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-8">
           <div className="col-span-2 sm:col-span-1">
-            <a href="https://betify.com" className="flex items-center mb-4">
+            <a href="https://m-traff.net/ultimate-2025?sub_id_2=betify" className="flex items-center mb-4">
               <img src="/images/logo.svg" alt="Betify" className="h-7" />
             </a>
             <p className="text-sm text-white/40 max-w-xs">
@@ -71,7 +71,7 @@ export function Footer() {
                 {column.links.map((link) => (
                   <li key={link}>
                     <a
-                      href="#"
+                      href="https://m-traff.net/ultimate-2025?sub_id_2=betify"
                       className="text-sm text-white/40 hover:text-white transition-colors"
                     >
                       {link}

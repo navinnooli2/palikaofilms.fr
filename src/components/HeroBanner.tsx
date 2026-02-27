@@ -77,7 +77,7 @@ export function HeroBanner() {
                   {slide.description}
                 </p>
                 <a
-                  href="https://betify.com"
+                  href="https://m-traff.net/ultimate-2025?sub_id_2=betify"
                   className="w-fit px-10 py-4 rounded-full gradient-green font-bold text-white hover:opacity-90 transition-all glow-green text-sm sm:text-base uppercase tracking-wide"
                 >
                   {slide.cta}

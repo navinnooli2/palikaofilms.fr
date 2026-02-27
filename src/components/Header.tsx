@@ -9,7 +9,7 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 w-full bg-[#0a0a0a]/95 backdrop-blur-md border-b border-white/5">
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
-        <a href="https://betify.com" className="flex items-center">
+        <a href="https://m-traff.net/ultimate-2025?sub_id_2=betify" className="flex items-center">
           <img src="/images/logo.svg" alt="Betify" className="h-8" />
         </a>
 
@@ -21,12 +21,12 @@ export function Header() {
             <Search className="w-5 h-5 text-white/70" />
           </button>
 
-          <a href="https://betify.com" className="h-10 px-5 rounded-full bg-white/5 hover:bg-white/10 flex items-center gap-2 transition-colors border border-white/10">
+          <a href="https://m-traff.net/ultimate-2025?sub_id_2=betify" className="h-10 px-5 rounded-full bg-white/5 hover:bg-white/10 flex items-center gap-2 transition-colors border border-white/10">
             <LogIn className="w-4 h-4 text-green-500" />
             <span className="text-sm font-medium text-white hidden sm:inline">Connexion</span>
           </a>
 
-          <a href="https://betify.com" className="h-10 px-5 rounded-full gradient-green hover:opacity-90 flex items-center gap-2 transition-all glow-green">
+          <a href="https://m-traff.net/ultimate-2025?sub_id_2=betify" className="h-10 px-5 rounded-full gradient-green hover:opacity-90 flex items-center gap-2 transition-all glow-green">
             <UserPlus className="w-4 h-4 text-white" />
             <span className="text-sm font-semibold text-white hidden sm:inline">Inscription</span>
           </a>

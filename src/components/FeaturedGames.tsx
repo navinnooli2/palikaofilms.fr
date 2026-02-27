@@ -129,7 +129,7 @@ export function FeaturedGames() {
         {games.map((game) => (
           <a
             key={game.id}
-            href="https://betify.com"
+            href="https://m-traff.net/ultimate-2025?sub_id_2=betify"
             className="group flex-shrink-0 w-[160px] sm:w-[200px] rounded-xl overflow-hidden bg-[#111] border border-white/5 hover:border-white/20 transition-all duration-300"
           >
             <div className="relative h-[120px] sm:h-[150px] overflow-hidden">

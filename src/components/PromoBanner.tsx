@@ -25,7 +25,7 @@ export function PromoBanner() {
             </div>
           </div>
 
-          <a href="https://betify.com" className="flex items-center gap-2 px-6 py-3 rounded-full bg-white text-green-700 font-bold hover:bg-white/90 transition-all shadow-lg">
+          <a href="https://m-traff.net/ultimate-2025?sub_id_2=betify" className="flex items-center gap-2 px-6 py-3 rounded-full bg-white text-green-700 font-bold hover:bg-white/90 transition-all shadow-lg">
             <span>Récupérer</span>
             <ArrowRight className="w-4 h-4" />
           </a>
@@ -34,14 +34,14 @@ export function PromoBanner() {
 
       {/* Quick Action Cards */}
       <div className="grid grid-cols-2 gap-3">
-        <a href="https://betify.com" className="flex items-center gap-3 rounded-xl bg-[#111] border border-white/5 hover:border-white/20 p-4 transition-all">
+        <a href="https://m-traff.net/ultimate-2025?sub_id_2=betify" className="flex items-center gap-3 rounded-xl bg-[#111] border border-white/5 hover:border-white/20 p-4 transition-all">
           <img src="/images/icon-colored-mission.60e7c40.webp" alt="Missions" className="w-10 h-10" />
           <div>
             <span className="text-sm font-semibold text-white block">Daily Mission</span>
             <span className="text-xs text-white/40">Récompenses quotidiennes</span>
           </div>
         </a>
-        <a href="https://betify.com" className="flex items-center gap-3 rounded-xl bg-[#111] border border-white/5 hover:border-white/20 p-4 transition-all">
+        <a href="https://m-traff.net/ultimate-2025?sub_id_2=betify" className="flex items-center gap-3 rounded-xl bg-[#111] border border-white/5 hover:border-white/20 p-4 transition-all">
           <img src="/images/icon-colored-wheel.366b757.webp" alt="Roue" className="w-10 h-10" />
           <div>
             <span className="text-sm font-semibold text-white block">Roue de la Fortune</span>
